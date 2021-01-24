@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "my stream",
+      "id": 1
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "changed",
+      "id": 3
+    }
+  ]
+}
